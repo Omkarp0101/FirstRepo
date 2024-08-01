@@ -1,4 +1,4 @@
 # FirstRepo
 My First Repo
 <br>
-Author - Omkar Patil
+Author - Omkar Shivajirao Patil
